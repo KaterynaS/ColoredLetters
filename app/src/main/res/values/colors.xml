@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+
+    <color name="magenta">#D81B60</color>
+    <color name="purple">#5E35B1</color>
+    <color name="orange">#D86A1B</color>
+    <color name="blue">#1B86D8</color>
+    <color name="tree">#00774A</color>
+    <color name="grass">#41A10E</color>
+</resources>
